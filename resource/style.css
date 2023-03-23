@@ -1,0 +1,27 @@
+body {
+    /*plano de fundo colorido*/
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+}
+#search{
+    background-color: #ec6e06;
+    padding-top: 1%;
+}
+#src{
+    padding-left: 70%;
+}
+.nav-bar{
+    background-color: #2b2b2b;
+    border-bottom: 2px solid #ec6e06;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+}
+
+.nav-bar ul li{
+    display: inline;
+    color: #fff;
+    padding: 20px;
+
+}
+
